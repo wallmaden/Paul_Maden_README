@@ -1,5 +1,7 @@
 # About Me
 
+## Welcome to Paul's GitHub!
+
 Paul is a distinguished Retail Business and Data Analyst with 20 years of leadership experience.
 
 - He specializes in data-driven decision-making to optimize business performance, enhance efficiency, and drive business growth.
@@ -19,3 +21,12 @@ forecasting models into business intelligence solutions to drive strategic decis
 and data storytelling—translating insights into strategic action. 
 - Always open to collaborative discussions, industry insights, and new opportunities, he welcomes conversations about data-driven strategy, business intelligence, and 
 the evolving role of analytics in shaping the future of business.
+
+## Skills & Tools
+**Languages:** SQL, Python, DAX 
+**Data Tools:** Power BI, Tableau, Excel  
+**Machine Learning:** Scikit-learn, Pandas, NumPy 
+**Databases:** PostgreSQL, MySQL, Snowflake  
+
+ **Let's Connect!** 
+ [LinkedIn](https://www.linkedin.com/in/paul-maden-9a1a34a2) | ✉️ wallmaden@hotmail.com
