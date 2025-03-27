@@ -2,7 +2,7 @@
 
 ## Welcome to Paul's GitHub!
 
-Paul is a distinguished Retail Business and Data Analyst with 20 years of leadership experience.
+Paul is a Business and Data Analyst with 20 years of leadership experience and a proven track record of driving insights and strategic decision-making.
 
 - He specializes in data-driven decision-making to optimize business performance, enhance efficiency, and drive business growth.
 - His career spans multiple industries, where he has developed expertise in business strategy, data analytics, and process optimization.
