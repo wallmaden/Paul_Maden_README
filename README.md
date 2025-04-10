@@ -30,3 +30,6 @@ the evolving role of analytics in shaping the future of business.
 
  **Let's Connect!** 
  [LinkedIn](https://www.linkedin.com/in/paul-maden-9a1a34a2) | ✉️ wallmaden@hotmail.com
+🌐 Website: [www.paulsmaden.com](https://www.paulsmaden.com/)
+
+
