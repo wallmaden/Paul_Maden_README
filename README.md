@@ -2,7 +2,10 @@
 
 ## Welcome to Paul's GitHub!
 
-Paul is a Business and Data Analyst with 20 years of leadership experience and a proven track record of driving insights and strategic decision-making.
+Business Operations & Project Delivery Leader | Data-Driven Strategist
+
+Paul is a results-focused leader with 20 years of experience delivering business transformation, operational excellence, and service improvement across fast-paced, multi-site environments.
+His expertise comes in data-led decision making, using tools like Power BI, SQL, and Python to turn insight into strategic action—whether shaping workforce plans, improving service delivery, or driving performance across large-scale operations. I focus on value creation, building the mindsets and systems that make change stick.
 
 - He specializes in data-driven decision-making to optimize business performance, enhance efficiency, and drive business growth.
 - His career spans multiple industries, where he has developed expertise in business strategy, data analytics, and process optimization.
